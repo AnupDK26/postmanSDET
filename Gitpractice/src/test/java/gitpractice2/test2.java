@@ -12,7 +12,7 @@ public class test2 {
 
 		System.out.println("new push4");
 		
-		System.out.println(" Push 1");
+		System.out.println(" Push 11");
 	}
 
 }
